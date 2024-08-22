@@ -12,4 +12,4 @@ Removed and archived by the SP95 NO BETA SOUND TEAM
 
 Thanks For PlayIng Coop With This Mod!
 
-New page Link GitLab:https://gitlab.com/spaceworld-no-beta-sounds-team/SP95-NO-BETA-SOUND/-/tree/main/
+New page Link GitLab: https://gitlab.com/spaceworld-no-beta-sounds-team/SP95-NO-BETA-SOUND
